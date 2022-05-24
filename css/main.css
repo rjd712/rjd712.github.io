@@ -22,10 +22,12 @@ a:hover {
 h1 {
     font-size: 3em;
     font-family:'Georgia', 'Arial', 'Sans-Serif';
+    color: #95C8EA;
 }
 h2 {
     font-size: 2em;
     font-family:'Georgia', 'Arial', 'Sans-Serif';
+    color: #95C8EA;
 }
 p {
     font-size: 1.2em;
