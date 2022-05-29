@@ -3,3 +3,6 @@
 
 https://drobnob.github.io.
 
+Credit for how to build this: 
+
+http://jmcglone.com/guides/github-pages/
