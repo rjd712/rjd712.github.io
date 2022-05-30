@@ -18,9 +18,10 @@ a {
 }
 a:hover {
     text-decoration: underline;
+    color: #4D7AD5;
 }
 h1 {
-    font-size: 2.0em;
+    font-size: 1.75em;
     font-family:'Georgia', 'Arial', 'Sans-Serif';
     color: #333;
 }
