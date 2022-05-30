@@ -14,20 +14,20 @@ nav ul li, footer ul li {
 }
 a {
     text-decoration: none;
-    color: #999;
+    color: #333;
 }
 a:hover {
     text-decoration: underline;
 }
 h1 {
-    font-size: 2.5em;
+    font-size: 2.0em;
     font-family:'Georgia', 'Arial', 'Sans-Serif';
-    color: #4C6D98;
+    color: #333;
 }
 h2 {
     font-size: 1.5em;
     font-family:'Georgia', 'Arial', 'Sans-Serif';
-    color: #4C6D98;
+    color: #333;
 }
 p {
     font-size: 1.2em;
@@ -42,7 +42,7 @@ footer {
 
 ul.posts { 
     margin: 20px auto 40px; 
-    font-size: 1.5em;
+    font-size: 1.2em;
 }
 
 ul.posts li {
